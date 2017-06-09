@@ -1,0 +1,22 @@
+{
+  "name": "ledger-wallet-chrome-alert-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LedgerHQ/ledger-wallet-chrome-alert-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LedgerHQ/ledger-wallet-chrome-alert-server/issues"
+  },
+  "homepage": "https://github.com/LedgerHQ/ledger-wallet-chrome-alert-server#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}

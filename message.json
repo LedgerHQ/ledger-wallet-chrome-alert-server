@@ -1,0 +1,4 @@
+{
+    "alert": true,
+    "message": "Avoid making transactions during fork"
+}
